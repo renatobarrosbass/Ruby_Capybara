@@ -1,0 +1,5 @@
+###############################################################
+Qdo quiser retornar todos os meus commits realizados numa base
+
+-->>> git fetch --all && git reset --hard origin/dev
+###############################################################
